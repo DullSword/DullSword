@@ -5,11 +5,11 @@
 ### 🌱 I’m currently learning a lot of programming related content.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dullsword&show_icons=true&hide=contribs,prs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dullsword&show_icons=true&hide=contribs,prs" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dullsword" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dullsword&layout=compact" />
 </a>
 
 <!--
